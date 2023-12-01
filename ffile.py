@@ -1,2 +1,3 @@
-#it is new file for rep
-# сохраню как python
+#it is new file for.
+# сохраню nekak python
+# ...
